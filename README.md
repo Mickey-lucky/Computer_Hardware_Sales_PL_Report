@@ -11,5 +11,5 @@ Excel, Power Pivot, Power Query, DAX
 3. developed caluculated measures using DAX language
 4. conducted comprehensive data analysis, generating sales reports in pivot tables by year and growth rate across multiple dimensions, including customers, product divisions, markets, and regions.
 5. benchmarked sales performance against market targets to identify areas of success and opportunities for improvement
-6. identified top-performing and underperforming products and customers, providing actionable insights for decision-making
+6. identified top-performing and underperforming products and countries and generated product-division level report
 7. prepared detailed profit and loss (P&L) reports by fiscal year, offering a clear view of financial performance and trends.
