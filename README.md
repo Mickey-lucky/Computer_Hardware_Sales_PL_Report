@@ -1,4 +1,4 @@
-# Hardware-Sales-Analysis
+# Hardware-Sales-Profit_Loss_report
 ## Introduction:
 The project aims to generate sales report and P&L report for hardware products sales across multiple markets, regions and product divisions
 
