@@ -1,6 +1,10 @@
-# Computer Hardware-Sales-P&L_report
+# Sales Analytics Project (FMCG)
+## Project Introduction
+
+
+
 ## Sales Report Objective:
-It aims to generate a sales report of computer hardware product sales across multiple markets, regions, customers and product divisions. The report conducted a comprehensive comparison between marketing performance and sales targets. The report will enable the company to monitor and evaluate its sales performance and trends and empower it to identify potential marketing expansion opportunities based on data-driven analysis.
+It aims to generate a customer sales performance report ![Market performance!]() and a marketing performance vs target report. The report conducted a comprehensive comparison between marketing performance and sales targets. ![Market performance!](). The report will enable the company to monitor and evaluate its sales performance and trends, empower it to enhance its sales strategy, and identify potential marketing expansion opportunities based on data-driven analysis.
 
 
 
@@ -9,7 +13,7 @@ It aims to generate a P&L report by fiscal year and a P&L report by market. The 
 
 
 ## Tools 
-Excel, Power Pivot, Power Query, DAX
+Excel, Power Pivot, Power Query, DAX, Pivot tables
 
 ## Highlights of the Project Process
 1. imported 6 CSV tables into power query (customer, market, product, sales, date, target)
@@ -21,4 +25,12 @@ Excel, Power Pivot, Power Query, DAX
 7. prepared detailed profit and loss (P&L) reports by fiscal year, offering a clear view of financial performance and trends.
 
 
-## Technical skills and soft skills.
+## Technical Skills and Knowledge Used
+1. ETL methodology
+2. Data Modelling in Power Pivot
+3. Using DAX to create calculated columns
+4. user-centric report designing approach
+5. Sales and Finance domain knowledge
+6. Conditional formatting
+
+
