@@ -11,7 +11,7 @@ It aims to generate a [customer sales performance report](https://github.com/use
 ![Market performance!](https://github.com/user-attachments/assets/8030ca44-5ae9-4b80-a957-a6c71eaefc68).
 
 ## Finance Report Objective:
-It aims to generate a [P&L report by fiscal year]() and a [P&L report by market](). The report will enable the evaluation of its financial performance and support decision-making. It will also aid in benchmarking against industry peers and financial planning.
+It aims to generate a [P&L report by fiscal year](https://github.com/user-attachments/assets/92f108b3-1d5e-434f-a592-85021c241176)() and a [P&L report by market](). The report will enable the evaluation of its financial performance and support decision-making. It will also aid in benchmarking against industry peers and financial planning.
 
 
 ## Tools 
