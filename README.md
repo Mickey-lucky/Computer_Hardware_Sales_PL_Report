@@ -4,7 +4,7 @@
 
 
 ## Sales Report Objective:
-It aims to generate a customer sales performance report! [Market performance!](https://github.com/user-attachments/assets/b4641ccc-2323-4016-b76a-5ac2dd60a7a1) and a marketing performance vs target report. The report conducted a comprehensive comparison between marketing performance and sales targets. ![Market performance!](). The report will enable the company to monitor and evaluate its sales performance and trends, empower it to enhance its sales strategy, and identify potential marketing expansion opportunities based on data-driven analysis.
+It aims to generate a customer sales performance report! [Market performance!](https://github.com/user-attachments/assets/b4641ccc-2323-4016-b76a-5ac2dd60a7a1) and a marketing performance vs target report. The report conducted a comprehensive comparison between marketing performance and sales targets. ![Market performance!](https://github.com/user-attachments/assets/8030ca44-5ae9-4b80-a957-a6c71eaefc68). The report will enable the company to monitor and evaluate its sales performance and trends, empower it to enhance its sales strategy, and identify potential marketing expansion opportunities based on data-driven analysis.
 
 
 
