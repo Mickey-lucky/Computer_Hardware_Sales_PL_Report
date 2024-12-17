@@ -17,7 +17,7 @@ It aims to generate a [P&L report by fiscal year 1](https://github.com/user-atta
 ![P&L report by fiscal year 2!](https://github.com/user-attachments/assets/9323715f-c57d-4984-b922-375401de209e)
 ![P&L report by market!](https://github.com/user-attachments/assets/5c72148e-0790-481e-8996-4760ffedbf05)
 ## Tools 
-Excel, Power Pivot, Power Query, DAX, Pivot tables
+Excel, Power Pivot, Power Query, DAX(for calculated columns), Pivot tables
 
 ## Highlights of the Project Process
 1. imported 6 CSV tables into power query (customer, market, product, sales, date, target)
