@@ -6,9 +6,9 @@
 ### Sales Report Objective:
 It aims to generate a [customer sales performance report](https://github.com/user-attachments/assets/b4641ccc-2323-4016-b76a-5ac2dd60a7a1) and a marketing performance vs target report. The [market performance report](https://github.com/user-attachments/assets/8030ca44-5ae9-4b80-a957-a6c71eaefc68). conducted a comprehensive comparison between marketing performance and sales targets.   The report will enable the company to monitor and evaluate its sales performance and trends, empower it to enhance its sales strategy, and identify potential marketing expansion opportunities based on data-driven analysis.
 
-![Customer sales performance!](https://github.com/user-attachments/assets/b4641ccc-2323-4016-b76a-5ac2dd60a7a1)
+![Customer sales performance!](https://github.com/user-attachments/assets/d751458d-268d-4de4-b208-33caf3ababfd)<br><br><br><br>
 
-![Market performance!](https://github.com/user-attachments/assets/8030ca44-5ae9-4b80-a957-a6c71eaefc68).
+![Market performance!]().
 
 ### Finance Report Objective:
 It aims to generate a [P&L report by fiscal year 1](https://github.com/user-attachments/assets/92f108b3-1d5e-434f-a592-85021c241176), [P&L report by fiscal year 2](https://github.com/user-attachments/assets/9323715f-c57d-4984-b922-375401de209e) and a [P&L report by market](https://github.com/user-attachments/assets/5c72148e-0790-481e-8996-4760ffedbf05). The report will enable the evaluation of its financial performance and support decision-making. It will also aid in financial planning and benchmarking against industry peers.
