@@ -1,4 +1,4 @@
-# Sales Analytics Project (FMCG)
+# Sales and P&L Reporting Project (FMCG)
 ## Project Introduction
 
 
