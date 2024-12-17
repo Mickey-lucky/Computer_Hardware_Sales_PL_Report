@@ -4,7 +4,7 @@
 
 
 ### Sales Report Objective:
-It aims to generate a [customer sales performance report](https://github.com/user-attachments/assets/b4641ccc-2323-4016-b76a-5ac2dd60a7a1) and a marketing performance vs target report. The [market performance report](https://github.com/user-attachments/assets/8030ca44-5ae9-4b80-a957-a6c71eaefc68). conducted a comprehensive comparison between marketing performance and sales targets.   The report will enable the company to monitor and evaluate its sales performance and trends, empower it to enhance its sales strategy, and identify potential marketing expansion opportunities based on data-driven analysis.
+It aims to generate a [customer sales performance report](https://github.com/Mickey-lucky/Sales_PL_Reporting_Project-Excel-Power-Pivot-/blob/main/Hardware%20Sales%20reporting_Mengya%20Wu%E2%80%94%E2%80%94final.pdf) and a marketing performance vs target report. The [market performance report](https://github.com/user-attachments/assets/8030ca44-5ae9-4b80-a957-a6c71eaefc68). conducted a comprehensive comparison between marketing performance and sales targets.   The report will enable the company to monitor and evaluate its sales performance and trends, empower it to enhance its sales strategy, and identify potential marketing expansion opportunities based on data-driven analysis.
 
 ![Customer sales performance!](https://github.com/user-attachments/assets/d751458d-268d-4de4-b208-33caf3ababfd)<br><br><br><br>
 
