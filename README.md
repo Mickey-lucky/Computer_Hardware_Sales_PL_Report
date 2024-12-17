@@ -23,7 +23,7 @@ Excel, Power Pivot, Power Query, DAX(for calculated columns), Pivot tables
 1. Imported 6 CSV tables into power query (customer, market, product, sales, date, target)
 2. Performed ETL over 700k data records to transform the data. Developed meaningful data models in power pivot for reporting purposes.
 3. Developed calculated measures using DAX language
-4. Conducted comprehensive data analysis, generated customer sales reports in pivot tables by year, and added slicer of customers, product divisions, markets, and regions.
+4. Conducted comprehensive data analysis, generated customer sales reports in pivot tables by year, and added slicer of product divisions, markets, and regions.
 5. Developed market sales performance report and benchmarked it against market targets to identify areas of success and opportunities for improvement
 6. Identified top-performing and underperforming products and countries and generated product-division level report
 7. Prepared detailed profit and loss (P&L) reports by fiscal year, offering a clear view of financial performance and trends.
