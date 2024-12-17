@@ -21,12 +21,13 @@ Excel, Power Pivot, Power Query, DAX(for calculated columns), Pivot tables
 ## Highlights of the Project Process
 1. Imported 5 CSV tables (3 dimension tables and 2 fact tables) into power query (3 dimension tables are dim_customer, dim_market, dim_product )
 2. Performed ETL over 700k data records. Merged 2 fact sales tables into one and created a data table
-3. Created meaningful data modelling in power pivot <br><br><br><br> ![Data modelling!](https://github.com/user-attachments/assets/fc4a9616-fd7a-4829-b584-1376f508978c).
-4. Developed calculated measures and columns using DAX language 
-5. Conducted comprehensive data analysis, generated customer sales reports in pivot tables by year, and incorporated slicer of product divisions, markets, and regions.
-6. Developed market sales performance report and benchmarked results against market targets 
-7. Identified top-performing and underperforming products and countries and generated product-division level report
-8. Prepared detailed profit and loss (P&L) reports by fiscal year and compared net sales across different fiscal years to uncover YOY performance trend
+3. Created meaningful data modelling in power pivot <br><br> ![Data modelling!](https://github.com/user-attachments/assets/fc4a9616-fd7a-4829-b584-1376f508978c).<br><br>
+4. Added net_sales_target table to data model to enable benchmarking
+5. Developed calculated measures and columns using DAX language 
+6. Conducted comprehensive data analysis, generated customer sales reports in pivot tables by year, and incorporated slicer of product divisions, markets, and regions.
+7. Developed market sales performance report and benchmarked results against market targets 
+8. Identified top-performing and underperforming products and countries and generated product-division level report
+9. Prepared detailed profit and loss (P&L) reports by fiscal year and compared net sales across different fiscal years to uncover YOY performance trend
 
 
 ## Technical Skills and Knowledge Used
