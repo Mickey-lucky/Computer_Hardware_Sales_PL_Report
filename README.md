@@ -11,7 +11,7 @@ It aims to generate a [customer sales performance report](https://github.com/use
 ![Market performance!](https://github.com/user-attachments/assets/8030ca44-5ae9-4b80-a957-a6c71eaefc68).
 
 ### Finance Report Objective:
-It aims to generate a [P&L report by fiscal year 1](https://github.com/user-attachments/assets/92f108b3-1d5e-434f-a592-85021c241176), [P&L report by fiscal year 2](https://github.com/user-attachments/assets/9323715f-c57d-4984-b922-375401de209e) and a [P&L report by market](https://github.com/user-attachments/assets/5c72148e-0790-481e-8996-4760ffedbf05). The report will enable the evaluation of its financial performance and support decision-making. It will also aid in benchmarking against industry peers and financial planning.
+It aims to generate a [P&L report by fiscal year 1](https://github.com/user-attachments/assets/92f108b3-1d5e-434f-a592-85021c241176), [P&L report by fiscal year 2](https://github.com/user-attachments/assets/9323715f-c57d-4984-b922-375401de209e) and a [P&L report by market](https://github.com/user-attachments/assets/5c72148e-0790-481e-8996-4760ffedbf05). The report will enable the evaluation of its financial performance and support decision-making. It will also aid in financial planning and benchmarking against industry peers.
 
 ![P&L report by fiscal year 1!](https://github.com/user-attachments/assets/92f108b3-1d5e-434f-a592-85021c241176)
 ![P&L report by fiscal year 2!](https://github.com/user-attachments/assets/9323715f-c57d-4984-b922-375401de209e)
