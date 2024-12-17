@@ -20,13 +20,13 @@ It aims to generate a [P&L report by fiscal year 1](https://github.com/user-atta
 Excel, Power Pivot, Power Query, DAX(for calculated columns), Pivot tables
 
 ## Highlights of the Project Process
-1. imported 6 CSV tables into power query (customer, market, product, sales, date, target)
-2. performed ETL over 700k data records to transform the data. Developed meaningful data models in power pivot for reporting purposes.
-3. developed calculated measures using DAX language
-4. conducted comprehensive data analysis, generating sales reports in pivot tables by year and growth rate across multiple dimensions, including customers, product divisions, markets, and regions.
-5. benchmarked sales performance against market targets to identify areas of success and opportunities for improvement
-6. identified top-performing and underperforming products and countries and generated product-division level report
-7. prepared detailed profit and loss (P&L) reports by fiscal year, offering a clear view of financial performance and trends.
+1. Imported 6 CSV tables into power query (customer, market, product, sales, date, target)
+2. Performed ETL over 700k data records to transform the data. Developed meaningful data models in power pivot for reporting purposes.
+3. Developed calculated measures using DAX language
+4. Conducted comprehensive data analysis, generated customer sales reports in pivot tables by year, and added slicer of customers, product divisions, markets, and regions.
+5. Developed market sales performance report and benchmarked it against market targets to identify areas of success and opportunities for improvement
+6. Identified top-performing and underperforming products and countries and generated product-division level report
+7. Prepared detailed profit and loss (P&L) reports by fiscal year, offering a clear view of financial performance and trends.
 
 
 ## Technical Skills and Knowledge Used
