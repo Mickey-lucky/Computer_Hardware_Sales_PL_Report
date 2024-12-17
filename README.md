@@ -19,19 +19,20 @@ It aims to generate a [P&L report by fiscal year 1](https://github.com/user-atta
 Excel, Power Pivot, Power Query, DAX(for calculated columns), Pivot tables
 
 ## Highlights of the Project Process
-1. Imported 6 CSV tables into power query (customer, market, product, sales, date, target)
-2. Performed ETL over 700k data records to transform the data. Developed meaningful data models in power pivot for reporting purposes.
-3. Developed calculated measures using DAX language
-4. Conducted comprehensive data analysis, generated customer sales reports in pivot tables by year, and added slicer of product divisions, markets, and regions.
-5. Developed market sales performance report and benchmarked it against market targets to identify areas of success and opportunities for improvement
-6. Identified top-performing and underperforming products and countries and generated product-division level report
-7. Prepared detailed profit and loss (P&L) reports by fiscal year, offering a clear view of financial performance and trends.
+1. Imported 5 CSV tables (3 dimension tables and 2 fact tables) into power query (3 dimension tables are dim_customer, dim_market, dim_product )
+2. Performed ETL over 700k data records to transform the data. Merged 2 fact sales tables into one and created a data table
+3. Created meaningful data modelling in power pivot <br><br><br><br> ![Data modelling!]().
+4. Developed calculated measures and columns using DAX language 
+5. Conducted comprehensive data analysis, generated customer sales reports in pivot tables by year, and added slicer of product divisions, markets, and regions.
+6. Developed market sales performance report and benchmarked it against market targets 
+7. Identified top-performing and underperforming products and countries and generated product-division level report
+8. Prepared detailed profit and loss (P&L) reports by fiscal year and made comparison of net sales between different fiscal years
 
 
 ## Technical Skills and Knowledge Used
 1. ETL methodology
 2. Data Modelling in Power Pivot
-3. Using DAX functions to create calculated columns and measures (related, calculate, divide etc.)
+3. DAX functions (related, calculate, divide, sum etc.)
 4. user-centric report designing approach
 5. Sales and Finance domain knowledge
 6. Conditional formatting
