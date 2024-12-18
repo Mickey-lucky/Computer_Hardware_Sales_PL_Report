@@ -20,7 +20,7 @@ Excel, Power Pivot, Power Query, DAX(for calculated columns), Pivot tables
 
 ## Highlights of the Project Process
 1. Imported 5 CSV tables (3 dimension tables and 2 fact tables) into power query (3 dimension tables are dim_customer, dim_market, dim_product )
-2. Performed ETL over 700k data records. Merged 2 fact sales tables into one and created a data table
+2. Performed ETL over 700k data records. Transformed 2 fact sales tables into one and created a data table
 3. Created meaningful data modelling in power pivot <br><br> ![Data modelling!](https://github.com/user-attachments/assets/fc4a9616-fd7a-4829-b584-1376f508978c).<br><br>
 4. Added net_sales_target table to data model to enable benchmarking
 5. Developed calculated measures and columns using DAX language 
