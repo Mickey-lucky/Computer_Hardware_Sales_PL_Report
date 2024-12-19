@@ -1,9 +1,9 @@
 # Sales and P&L Reporting Project (FMCG)
 ## Project Introduction
-AtliQ hardware is a company that sales computer hardware to both brick & mortar retailers and e-commerce businesses across multiple regions and countries. The report aims to provide comprehensive insights into sales performance and financial outcomes through two parts: Sales Report and P&L Financial Report. The sales analyzes sales trend for customers and market, enabling the company to uncover growth opportunities and identigy area of improvement across different countries. The P&L report will provide in-depth insight of its financial performance and aid in data-driven financial planning and budgeting.
+AtliQ Hardware is a company that sells computer hardware to both brick-and-mortar retailers and e-commerce businesses across multiple regions and countries. The report aims to provide comprehensive insights into sales performance and financial outcomes in two parts: The sales report and the P&L financial report. The report analyzes sales trends for customers and the market, enabling the company to uncover growth opportunities and identify areas of improvement across different countries. The P&L report will provide in-depth insight into its financial performance and aid in data-driven financial planning and budgeting.
 
 ### Sales Report Objective:
-It aims to generate a [customer sales performance report](https://github.com/Mickey-lucky/Sales_PL_Reporting_Project-Excel-Power-Pivot-/blob/main/Hardware%20Sales%20reporting_Mengya%20Wu%E2%80%94%E2%80%94final.pdf) and a marketing performance vs target report. The [market performance report](https://github.com/user-attachments/assets/a91fb2bf-7147-4c47-8d29-b0af5cf9e188). conducted a comprehensive comparison between marketing performance and sales targets.   The report will enable the company to monitor and evaluate its sales performance and trends, empower it to enhance its sales strategy, and identify potential marketing expansion opportunities based on data-driven analysis.
+It aims to generate a [customer sales performance report](https://github.com/Mickey-lucky/Sales_PL_Reporting_Project-Excel-Power-Pivot-/blob/main/Hardware%20Sales%20reporting_Mengya%20Wu%E2%80%94%E2%80%94final.pdf) and a marketing performance vs target report. The [market performance report](https://github.com/user-attachments/assets/a91fb2bf-7147-4c47-8d29-b0af5cf9e188). conducted a comprehensive comparison between marketing performance and sales targets.   The report will enable the company to monitor and evaluate its sales performance and trends, empower it to enhance its sales strategy and identify potential marketing expansion opportunities based on data-driven analysis.
 
 ![Customer sales performance!](https://github.com/user-attachments/assets/54c9c309-e3e6-4e54-a733-b646cc2427f7)<br><br><br><br>
 
@@ -21,7 +21,7 @@ Excel, Power Pivot, Power Query, DAX(for calculated columns), Pivot tables
 ## Highlights of the Project Process
 1. Imported 5 CSV tables (3 dimension tables and 2 fact tables) into power query (3 dimension tables are dim_customer, dim_market, dim_product )
 2. Performed ETL over 700k data records. Transformed 2 fact sales tables into one and created a data table
-3. Created meaningful data modelling in power pivot <br><br> ![Data modelling!](https://github.com/user-attachments/assets/fc4a9616-fd7a-4829-b584-1376f508978c).<br><br>
+3. Created meaningful data modeling in power pivot <br><br>![Data modelling!](https://github.com/user-attachments/assets/fc4a9616-fd7a-4829-b584-1376f508978c).<br><br>
 4. Added net_sales_target table to data model to enable benchmarking
 5. Developed calculated measures and columns using DAX language 
 6. Conducted comprehensive data analysis, generated customer sales reports in pivot tables by year, and incorporated slicer of product divisions, markets, and regions.
